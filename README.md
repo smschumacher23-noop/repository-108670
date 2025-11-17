@@ -3,8 +3,8 @@
 
 ## **Introduction to Pandas DataFrames – Replicating an article in Markdown**
 
-| **Datei** | Art der Datei | Bedeutung |
+| **Data** | Type | Meaning |
 | :-------- | :------------ | :-------- |
-| Pandas.ipynb | Notebook-Datei | Enthält den gesamten Quellcode des Jupyter Notebooks und dokumentiert den vollständigen Ablauf des Projekts. |
-| Pandas.html | HTML-Datei | Enthält die Finale Ausgabe des Notebooks. Sie dient zur einfachen Anzeige des Berichts in jedem Browser, ohne dass eine Umgebung eingerichtet werden muss. |
-| Pandas.webp | Bild-Datei | Enthält das implementierte und verlinkte Bild. |
+| Pandas.ipynb | Notebook-Data | Contains the complete source code of the Jupyter Notebook and documents the entire project process. |
+| Pandas.html | HTML-Data | Contains the final version of the notebook. It allows for easy viewing of the report in any browser without the need to configure any special environment. |
+| Pandas.webp | WebImage-Data | Contains the implemented and linked webimage. |
